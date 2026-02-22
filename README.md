@@ -64,10 +64,10 @@ my-vue-admin/
 │   │   ├── performance.ts # 性能优化工具
 │   │   └── performanceMonitor.ts # 性能监控
 │   ├── views/            # 页面组件
-│   │   ├── dashboard/    # 仪表盘
+│   │   ├── dashboard/    # 数据面板
 │   │   ├── chargingstation/ # 充电站管理
-│   │   ├── operations/   # 运营管理
-│   │   ├── equipment/    # 设备管理
+│   │   ├── operations/   # 订单管理
+│   │   ├── equipment/    # 会员卡管理
 │   │   ├── map/          # 地图
 │   │   └── User/         # 个人中心
 │   ├── App.vue           # 根组件
@@ -100,7 +100,6 @@ pnpm install
 npm run dev
 ```
 
-访问 http://localhost:5173
 
 ### 生产构建
 
@@ -263,9 +262,9 @@ MIT License
 
 ## 📞 联系方式
 
-- 项目地址：[GitHub](https://github.com/your-username/my-vue-admin)
-- 问题反馈：[Issues](https://github.com/your-username/my-vue-admin/issues)
+qq : 3118027323
 
----
+
+
 
 **最后更新：** 2025-02-21
