@@ -10,7 +10,7 @@
 
 一个基于 Vue 3 + TypeScript + Vite 构建的现代化能源管理后台系统
 
-[在线演示](https://your-demo-url.com) · [报告问题](https://github.com/your-username/energy-management-platform/issues) · [功能建议](https://github.com/your-username/energy-management-platform/issues)
+
 
 </div>
 
@@ -84,29 +84,6 @@ npm run build
 npm run preview
 ```
 
-## 📦 技术栈
-
-### 核心框架
-- [Vue 3](https://vuejs.org/) - 渐进式 JavaScript 框架
-- [TypeScript](https://www.typescriptlang.org/) - JavaScript 的超集
-- [Vite](https://vitejs.dev/) - 下一代前端构建工具
-
-### UI 框架
-- [Element Plus](https://element-plus.org/) - Vue 3 组件库
-- [Tailwind CSS](https://tailwindcss.com/) - 原子化 CSS 框架
-
-### 状态管理
-- [Pinia](https://pinia.vuejs.org/) - Vue 3 官方状态管理库
-- [pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 状态持久化
-
-### 数据可视化
-- [ECharts](https://echarts.apache.org/) - 强大的图表库
-- [高德地图](https://lbs.amap.com/) - 地图服务
-
-### 工具库
-- [Axios](https://axios-http.com/) - HTTP 客户端
-- [Mock.js](http://mockjs.com/) - 数据模拟
-- [Vue Router](https://router.vuejs.org/) - 路由管理
 
 ## 📂 项目结构
 
@@ -194,9 +171,6 @@ energy-management-platform/
 - ✅ 待办事项
 - 📝 消息通知
 
-## ⚡ 性能优化
-
-本项目实施了多项性能优化措施，详见 [PERFORMANCE.md](./PERFORMANCE.md)
 
 ### 优化成果
 
@@ -269,23 +243,9 @@ chore: 构建/工具链相关
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 提交 Pull Request
 
-## 📄 开源协议
 
-本项目基于 [MIT](./LICENSE) 协议开源
 
-## 🙏 鸣谢
 
-- [Vue.js](https://vuejs.org/)
-- [Element Plus](https://element-plus.org/)
-- [ECharts](https://echarts.apache.org/)
-- [Vite](https://vitejs.dev/)
-
-## 📞 联系方式
-
-- 作者：[Your Name]
-- 邮箱：your.email@example.com
-- 项目地址：[GitHub](https://github.com/your-username/energy-management-platform)
-- 问题反馈：[Issues](https://github.com/your-username/energy-management-platform/issues)
 
 ## ⭐ Star History
 
