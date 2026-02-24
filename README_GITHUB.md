@@ -14,16 +14,6 @@
 
 </div>
 
-## 📸 项目预览
-
-<div align="center">
-  <img src="./screenshots/dashboard.png" alt="仪表盘" width="45%">
-  <img src="./screenshots/charging-station.png" alt="充电站管理" width="45%">
-  <img src="./screenshots/map.png" alt="地图展示" width="45%">
-  <img src="./screenshots/data-analysis.png" alt="数据分析" width="45%">
-</div>
-
-> 💡 提示：请在 `screenshots` 目录下添加项目截图
 
 ## ✨ 核心特性
 
